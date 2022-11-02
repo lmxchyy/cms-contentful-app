@@ -6,7 +6,7 @@ export default function Header() {
       <Link href="/" className="hover:underline">
         Diving Blog
       </Link>
-       ...
+       .
     </h2>
   )
 }
